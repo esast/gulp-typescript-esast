@@ -1,0 +1,16 @@
+{
+	"name": "gulp-typescript-esast",
+	"version": "0.0.0",
+	"license": "Unlicense",
+	"repository": "esast/gulp-typescript-esast",
+	"files": ["index.js"],
+	"dependencies": {
+		"babel-plugin-transform-es2015-destructuring": "6.4.0",
+		"babel-plugin-transform-es2015-parameters": "6.4.5",
+		"gulp-babel": "6.1.1",
+		"gulp-sourcemaps": "1.6.0",
+		"gulp-typescript": "2.10.0",
+		"merge2": "1.0.0",
+		"typescript": "1.8.0"
+	}
+}
